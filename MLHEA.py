@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb  7 11:00:45 2021
-
-@author: Matt
-"""
-
 import pandas as pd
 df = pd.read_csv("C:/Users/Matt/Downloads/exp_data.csv")
 print(df.shape)
